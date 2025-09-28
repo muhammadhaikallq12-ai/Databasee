@@ -1,7 +1,0 @@
-{
-  "users": [
-    { "id": 1, "name": "Haikal", "token": "TOKEN123" },
-    { "id": 2, "name": "Andi", "token": "TOKEN456" },
-    { "id": 3, "name": "Budi", "token": "TOKEN789" }
-  ]
-}
